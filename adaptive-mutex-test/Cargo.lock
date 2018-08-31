@@ -1,0 +1,11 @@
+[[package]]
+name = "adaptive-mutex"
+version = "0.1.0"
+
+[[package]]
+name = "adaptive-mutex-test"
+version = "0.1.0"
+dependencies = [
+ "adaptive-mutex 0.1.0",
+]
+
